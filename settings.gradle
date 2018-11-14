@@ -1,4 +1,5 @@
 rootProject.name = 'com.david.mybatis.study'
 include 'com.david.consumTypeHandler'
 include 'com.david.jdbc.up1'
+include 'com.david.jdbc.up2'
 
